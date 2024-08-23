@@ -1,0 +1,13 @@
+! cookie removal
+nikkei.com##+js(cookie-remover, __tbc)
+riotimesonline.com##+js(cookie-remover, rcpvl-visited)
+similarweb.com##+js(cookie-remover, sgID)
+
+! empty element removal
+fantasysports.yahoo.com###yspcontentheader
+serebii.net###content > .center
+sports-reference.com,baseball-reference.com,basketball-reference.com,pro-football-reference.com,hockey-reference.com,fbref.com##.adblock
+
+! whitelisted filters
+@@||disabilityscoop.com/c/assets/pigeon.js$1p
+list-manage.com#@#.gdpr-content
