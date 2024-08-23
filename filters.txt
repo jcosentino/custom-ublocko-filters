@@ -1,3 +1,5 @@
+! Title: Custom Filters
+
 ! cookie removal
 nikkei.com##+js(cookie-remover, __tbc)
 riotimesonline.com##+js(cookie-remover, rcpvl-visited)
