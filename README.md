@@ -4,6 +4,12 @@
 https://raw.githubusercontent.com/jcosentino/custom-ublocko-filters/main/filters.txt
 
 ## Ad blocking
+ABP anti-circumvention list
+https://downloads.vivaldi.com/lists/abp/abp-filters-anti-cv-current.txt
+
+Adblock Warning Removal List
+https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt
+
 EasyList:
 https://downloads.vivaldi.com/easylist/easylist-current.txt
 
