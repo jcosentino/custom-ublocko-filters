@@ -29,6 +29,9 @@ Bypass Paywalls Clean filter:
 https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt
 
 ## Tracking blocking
+DuckDuckGo Tracking Radar:
+https://downloads.vivaldi.com/ddg/tds-v2-current.json
+
 EasyPrivacy:
 https://downloads.vivaldi.com/easylist/easyprivacy-current.txt
 
